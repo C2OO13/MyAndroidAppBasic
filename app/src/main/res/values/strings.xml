@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">learn</string>
+    <string name="button1">Unlock new Button</string>
+    <string name="button">Back to main activity</string>
+    <string name="button2">Bring me back the original one</string>
+    <string name="launch_maps">Launch Maps</string>
+    <string name="checkbox">Send demo mail</string>
+    <string name="market">Nothing yet</string>
+    <string name="switch_text">List View</string>
+    <string name="checkbox2">A/B</string>
+    <string name="button5">Updated List View</string>
+    <string name="todo">TODO</string>
+</resources>
